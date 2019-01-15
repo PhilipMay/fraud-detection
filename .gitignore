@@ -1,0 +1,8 @@
+data/creditcard.csv
+data/creditcardfraud.zip
+data/.DS_Store
+data/Fraud_Data_Preprocessed.zip
+data/x_test.csv
+data/x_train.csv
+data/y_test.csv
+data/y_train.csv
