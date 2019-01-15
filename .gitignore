@@ -6,3 +6,4 @@ data/x_test.csv
 data/x_train.csv
 data/y_test.csv
 data/y_train.csv
+.ipynb_checkpoints
